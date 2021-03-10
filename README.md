@@ -1,4 +1,4 @@
-# certifications
+# Certifications
 [ARCHIVE] archive of shantanu's certifications received from various companies
 - [DataCamp Certification - Python Programmer Career Track]
 - [DataCamp Cetification - Machine Learning Scientist with Python Career Track]
